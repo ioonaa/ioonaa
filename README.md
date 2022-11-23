@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me: gessinger@coli.uni-saarland.de
+- 📫 How to reach me: iona.gessinger@ucd.ie
 
 <!---
 ioonaa/ioonaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
